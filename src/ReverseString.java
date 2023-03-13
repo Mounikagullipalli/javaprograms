@@ -14,5 +14,6 @@ public class ReverseString {
         }else {
             System.out.println("not palandram");
         }
+        System.out.println(rev);
     }
 }
